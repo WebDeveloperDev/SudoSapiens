@@ -104,7 +104,7 @@ export default function Home() {
           <div className="bg-background p-6 rounded-lg shadow-lg">
             <div className="aspect-video bg-gradient-to-br from-primary/20 to-primary/5 rounded-md flex items-center justify-center">
               <img
-                src="/placeholder.svg?height=300&width=500"
+                src="/wallet.jpeg?height=300&width=500"
                 alt="Blockchain payment illustration"
                 className="max-w-full h-auto"
               />
