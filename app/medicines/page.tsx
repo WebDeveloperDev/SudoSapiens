@@ -22,7 +22,7 @@ export default function MedicinesPage() {
         MediPlus: true,
         HealthMart: false,
       },
-      image: "/placeholder.svg?height=150&width=150",
+      image: "https://5.imimg.com/data5/SELLER/Default/2024/7/437949243/TY/IL/IU/45342411/amoxicillin-capsule-500-mg-500x500.jpg?height=150&width=150",
     },
     {
       id: 2,
@@ -36,7 +36,7 @@ export default function MedicinesPage() {
         MediPlus: false,
         HealthMart: true,
       },
-      image: "/placeholder.svg?height=150&width=150",
+      image: "https://5.imimg.com/data5/SELLER/Default/2023/1/JR/YJ/LF/29824675/lisinopril-20-mg-tablet.jpg?height=150&width=150",
     },
     {
       id: 3,
@@ -50,7 +50,7 @@ export default function MedicinesPage() {
         MediPlus: true,
         HealthMart: true,
       },
-      image: "/placeholder.svg?height=150&width=150",
+      image: "https://www.medicinedirect.co.uk/media/catalog/product/cache/af81a545d814a69bbc85f4b3802a1e51/2/2/220-4956.jpg?height=150&width=150",
     },
     {
       id: 4,
@@ -64,7 +64,7 @@ export default function MedicinesPage() {
         MediPlus: true,
         HealthMart: false,
       },
-      image: "/placeholder.svg?height=150&width=150",
+      image: "https://5.imimg.com/data5/SELLER/Default/2024/2/394651866/XV/CH/GX/39084219/cetirizine-10-mg-tablet.jpg?height=150&width=150",
     },
   ]
 
