@@ -9,7 +9,7 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SecureMed - Healthcare Management System",
+  title: "Chikitsa - Healthcare Management System",
   description: "A secure and user-friendly medical record and healthcare management system",
     generator: 'v0.dev'
 }
