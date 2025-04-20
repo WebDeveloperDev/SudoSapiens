@@ -14,7 +14,7 @@ export default function BedsPage() {
       id: 1,
       name: "Central Hospital",
       location: "123 Medical Drive, City",
-      image: "https://content.jdmagicbox.com/v2/comp/delhi/f4/011pxx11.xx11.091208180155.u2f4/catalogue/central-hospital-ganesh-nagar-tilak-nagar-delhi-hospitals-EPG2AsMaOu.jpg/placeholder.svg?height=200&width=400",
+      image: "https://content.jdmagicbox.com/v2/comp/delhi/f4/011pxx11.xx11.091208180155.u2f4/catalogue/central-hospital-ganesh-nagar-tilak-nagar-delhi-hospitals-EPG2AsMaOu.jpg?height=200&width=400",
       availableBeds: {
         general: 12,
         icu: 3,
