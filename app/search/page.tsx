@@ -36,7 +36,7 @@ export default function SearchPage() {
       name: "Dr. Emily Rodriguez",
       specialty: "Pediatrician",
       hospital: "Children's Hospital",
-      image: "https://pbs.twimg.com/profile_images/1670951320549834752/Vm6BF8V4_400x400.jpg?height=100&width=100",
+      image: "https://photos.psychologytoday.com/e355f3cf-116c-4bd3-9d87-44942ea436c9/1/320x400.jpeg?height=100&width=100",
       rating: 4.7,
       experience: "10 years",
       availability: "Mon-Fri",
