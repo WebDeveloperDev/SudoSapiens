@@ -49,7 +49,7 @@ export default function HeroSection() {
               <img
                 alt="SecureMed Healthcare Platform"
                 className="object-cover w-full h-full"
-                src="/heroSection?height=600&width=600"
+                src="/heroSection.png?height=600&width=600"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-background/80 to-background/20 flex items-end p-6">
                 <div className="bg-background/80 backdrop-blur-sm p-4 rounded-lg max-w-[80%]">
