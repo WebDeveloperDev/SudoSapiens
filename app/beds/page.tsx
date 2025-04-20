@@ -14,7 +14,7 @@ export default function BedsPage() {
       id: 1,
       name: "Central Hospital",
       location: "123 Medical Drive, City",
-      image: "/placeholder.svg?height=200&width=400",
+      image: "https://content.jdmagicbox.com/v2/comp/delhi/f4/011pxx11.xx11.091208180155.u2f4/catalogue/central-hospital-ganesh-nagar-tilak-nagar-delhi-hospitals-EPG2AsMaOu.jpg/placeholder.svg?height=200&width=400",
       availableBeds: {
         general: 12,
         icu: 3,
@@ -27,7 +27,7 @@ export default function BedsPage() {
       id: 2,
       name: "Memorial Medical Center",
       location: "456 Health Avenue, City",
-      image: "/placeholder.svg?height=200&width=400",
+      image: "https://bmhrc.ac.in/WriteReadData/userfiles/image/DSC_8852.JPG?height=200&width=400",
       availableBeds: {
         general: 8,
         icu: 1,
@@ -40,7 +40,7 @@ export default function BedsPage() {
       id: 3,
       name: "Community Healthcare",
       location: "789 Wellness Blvd, City",
-      image: "/placeholder.svg?height=200&width=400",
+      image: "https://www.elmhurst.edu/wp-content/uploads/2020/02/what-is-community-health-illustration.jpg?height=200&width=400",
       availableBeds: {
         general: 15,
         icu: 4,
